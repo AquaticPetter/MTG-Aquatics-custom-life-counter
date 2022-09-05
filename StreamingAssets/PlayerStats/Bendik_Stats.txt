@@ -1,6 +1,0 @@
-Favorite color combo: Black&White
-
-Games played: 4
-Games won: 1
-Players: killed: 2
-Commander damage dealt: 31
