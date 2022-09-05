@@ -1,6 +1,0 @@
-Favorite color combo: Red&Green
-
-Games played: 4
-Games won: 2
-Players: killed: 3
-Commander damage dealt: 41
